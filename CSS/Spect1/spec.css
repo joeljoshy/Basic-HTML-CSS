@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+body{
+    background-color: black;
+}
+div{
+    width:150px;
+    height: 200px;
+    border:0px solid black;
+    background-color:white;
+    float: left;
+    margin-top: 100px;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Pattaya', sans-serif;
+}
+
+.s1{
+
+    margin-left: 559px;
+    background-color: deeppink;
+}
+.s2{
+   margin-left: 15px;
+   background-color: blue;
+}
+.s3{
+    margin-left: 15px;
+    background-color: green;
+}
+.s4{
+    margin-left: 15px;
+    background-color: grey;
+}
+.s5{
+    margin-left: 15px;
+    background-color: yellow;
+
+}
+.s6{
+    margin-top: 70px;
+    margin-left: 395px;
+    background-color: red;
+}
+.s7{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: lightsalmon;
+}
+.s8{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: yellowgreen;
+}
+.s9{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: palegreen;
+}
+.s10{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: mediumvioletred;
+}
+.s11{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: goldenrod;
+}
+.s12{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: pink;
+}
+.s13{
+    margin-top: 70px;
+    margin-left: 227px;
+    background-color: white;
+}
+.s14{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: rgb(38, 0, 255);
+}.s15{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: rgb(245, 180, 180);
+}.s16{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: rgb(1, 255, 242);
+}.s17{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: rgba(26, 71, 8, 0.377);
+}.s18{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: rgb(255, 0, 212);
+}.s19{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: rgba(238, 255, 0, 0.377);
+}
+.s20{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: peru
+}
+.s21{
+    margin-top: 70px;
+    margin-left: 15px;
+    background-color: rgb(231, 145, 110)
+}
+

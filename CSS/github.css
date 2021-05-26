@@ -1,0 +1,41 @@
+body{
+    
+}
+img{
+    display: block;
+    width: 150px ;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto
+ 
+    
+}
+
+form{
+  
+    border: solid black;
+    width: 400px;
+    height: 400px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+fieldset{
+    width: 2px;
+
+}
+button{
+    color:white;
+    background-color: green;
+    width: auto;    
+}
+
+#contact{
+    color:green;
+}
